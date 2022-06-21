@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Julián Yachelini. Fullstack web developer.
 
 <!--
 **JYachelini/JYachelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Mi proyecto final de [ReactJS][react]
-El proyecto de ReactJS fue la continuación del proyecto de [Javascript][javascript]
-## Mi primer proyecto de [HTML/CSS][html/css]
+## My [portfolio][portfolio] (under development, not finished)
+## My [ReactJS][react] project
+The ReactJS project was the continuation of the [Javascript][javascript] project.
+## My first ever project with [HTML/CSS][html/css].
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
@@ -32,4 +32,5 @@ El proyecto de ReactJS fue la continuación del proyecto de [Javascript][javascr
 [react]: https://farmaciayachelini.netlify.app/
 [javascript]: https://jyachelini.github.io/Proyecto_Farmacia/
 [html/css]: https://jyachelini.github.io/Proyecto_VeruxMu/
+[portfolio]: https://jyachelini.github.io/Portfolio-JY/
 [LinkedIn]: https://www.linkedin.com/in/jyachelini/
