@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Mi proyecto final de ReactJS --> [Link][react]
+## Mi proyecto final de [ReactJS][react]
+El proyecto de ReactJS fue la continuación del proyecto de [Javascript][javascript]
+## Mi primer proyecto de [HTML/CSS][html/css]
 
+---
+[![LinkedIn](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw)][LinkedIn]
 
 
 
@@ -26,3 +30,6 @@ Here are some ideas to get you started:
 
 <!-- Links -->
 [react]: https://farmaciayachelini.netlify.app/
+[javascript]: https://jyachelini.github.io/Proyecto_Farmacia/
+[html/css]: https://jyachelini.github.io/Proyecto_VeruxMu/
+[LinkedIn]: https://www.linkedin.com/in/jyachelini/
