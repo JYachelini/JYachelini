@@ -20,7 +20,7 @@ El proyecto de ReactJS fue la continuación del proyecto de [Javascript][javascr
 ## Mi primer proyecto de [HTML/CSS][html/css]
 
 ---
-[![LinkedIn](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=s256-rw)][LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
 
 
 
