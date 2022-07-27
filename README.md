@@ -32,5 +32,5 @@ The ReactJS project was the continuation of the [Javascript][javascript] project
 [react]: https://farmaciayachelini.netlify.app/
 [javascript]: https://jyachelini.github.io/Proyecto_Farmacia/
 [html/css]: https://jyachelini.github.io/Proyecto_VeruxMu/
-[portfolio]: https://jyachelini.github.io/Portfolio-JY/
+[portfolio]: https://jyachelini.github.io/portfolio/
 [LinkedIn]: https://www.linkedin.com/in/jyachelini/
