@@ -34,7 +34,7 @@ The ReactJS project was the continuation of the [Javascript][javascript] project
 <h1 align="center">Hi 👋, I'm Julian Yachelini</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jyachelini.github.io/portfolio/)
+- 👨‍💻 Some of my projects are available at [my portfolio](https://jyachelini.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
